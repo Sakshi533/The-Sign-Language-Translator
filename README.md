@@ -37,6 +37,7 @@ Run the application:
 streamlit run app.py
 ```
 
+
 The application will open in your default web browser. Upload an image of an ASL hand sign, and the model will predict the corresponding letter.
 
 ## Model Architecture
