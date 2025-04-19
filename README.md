@@ -1,4 +1,4 @@
-# SignVision: ASL to Text Translation
+# The Sign Language Translator
 
 AI-powered American Sign Language (ASL) to text translation system that helps bridge communication gaps between the deaf/hard-of-hearing community and others.
 
@@ -65,11 +65,8 @@ The model is trained on the Sign Language MNIST dataset from Kaggle, which conta
 - Enhanced UI/UX features
 
 ## Team
-
-- [Team Member 1] - [Role]
-- [Team Member 2] - [Role]
-- [Team Member 3] - [Role]
-- [Team Member 4] - [Role]
+- Sakshi Goswami-E23CSEU1805
+- Nishtha Sikri-E23CSEU1809
 
 ## License
 
